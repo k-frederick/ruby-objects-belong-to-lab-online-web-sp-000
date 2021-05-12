@@ -1,7 +1,3 @@
 class Post
-  # attr_accessor :title
-  # @title = title
-  # def initialize(name)
-  #   @name = name
-  # end
+  attr_accessor :title, :author
 end
